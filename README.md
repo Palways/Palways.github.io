@@ -3,7 +3,5 @@ HTML 알아보면서 여러가지 아무거나 적는 곳입니당
 그래서 암거나 다 가져와서 해봄
 <hr />
 <a href="https://palways.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/허브깃-181717?style=flat-square&logo=GitHub Pages&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/badge/-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Beat-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
 디스코ㄷㄷ
